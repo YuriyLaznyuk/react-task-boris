@@ -1,0 +1,14 @@
+.job{
+  text-align: center;
+  font-size: 24px;
+  a{
+    text-decoration: none;
+    &:hover{
+      color: red;
+      transition: 0.6s;
+    }
+  }
+  div{
+    padding: 5px;
+  }
+}
